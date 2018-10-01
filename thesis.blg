@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: chapters/results.aux
+A level-1 auxiliary file: chapters/conclusion.aux
+The style file: chicago.bst
+Database file #1: thesis.bib
+Warning--page numbers missing in hartmann2012
+You've used 56 entries,
+            2861 wiz_defined-function locations,
+            952 strings with 14313 characters,
+and the built_in function-call counts, 41987 in all, are:
+= -- 3553
+> -- 3173
+< -- 9
++ -- 967
+- -- 1083
+* -- 3914
+:= -- 7567
+add.period$ -- 172
+call.type$ -- 56
+change.case$ -- 422
+chr.to.int$ -- 55
+cite$ -- 57
+duplicate$ -- 1068
+empty$ -- 2483
+format.name$ -- 1247
+if$ -- 7826
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 56
+newline$ -- 282
+num.names$ -- 564
+pop$ -- 303
+preamble$ -- 1
+purify$ -- 758
+quote$ -- 0
+skip$ -- 1122
+stack$ -- 0
+substring$ -- 2466
+swap$ -- 369
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1076
+warning$ -- 1
+while$ -- 578
+width$ -- 0
+write$ -- 748
+(There was 1 warning)

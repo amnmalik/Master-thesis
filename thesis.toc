@@ -1,0 +1,43 @@
+\contentsline {chapter}{List of Figures}{v}{chapter*.3}
+\contentsline {chapter}{List of Tables}{vii}{chapter*.4}
+\contentsline {chapter}{Abbreviations}{viii}{chapter*.5}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Weathering of rocks}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Structure of the thesis}{2}{section.1.2}
+\contentsline {chapter}{\numberline {2}Background and Literature Review}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Forsterite}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Enhanced Weathering}{3}{section.2.2}
+\contentsline {section}{\numberline {2.3}Calculating the reaction rate}{5}{section.2.3}
+\contentsline {section}{\numberline {2.4}Reaction control in mineral dissolution}{6}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Transport and Surface processes}{7}{subsection.2.4.1}
+\contentsline {section}{\numberline {2.5}Characteristics of Forsterite dissolution}{7}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Nonstochiometry}{7}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Non steady state}{8}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}Factors affecting rate of dissolution }{8}{subsection.2.5.3}
+\contentsline {subsubsection}{Effect of pH and temperature}{9}{section*.8}
+\contentsline {subsubsection}{Effect of partice size and surface area}{9}{section*.9}
+\contentsline {subsubsection}{Effect of reaction products and other ions}{10}{section*.10}
+\contentsline {subsubsection}{Effect of \ce {CO2} and carbonates}{10}{section*.11}
+\contentsline {subsection}{\numberline {2.5.4}Rate control in forsterite dissolution}{11}{subsection.2.5.4}
+\contentsline {section}{\numberline {2.6}Motivation}{12}{section.2.6}
+\contentsline {chapter}{\numberline {3}Materials and Methods}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Olivine characterisation}{13}{section.3.1}
+\contentsline {section}{\numberline {3.2}Experimental setup}{15}{section.3.2}
+\contentsline {section}{\numberline {3.3}Solution analysis}{15}{section.3.3}
+\contentsline {chapter}{\numberline {4}Results and Discussion}{18}{chapter.4}
+\contentsline {section}{\numberline {4.1}Major ion analysis}{18}{section.4.1}
+\contentsline {section}{\numberline {4.2}Thickness of `surface layer'}{22}{section.4.2}
+\contentsline {section}{\numberline {4.3}Pore volume and Residence time}{22}{section.4.3}
+\contentsline {section}{\numberline {4.4}Rate of Reaction}{26}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Rate comparison with literature}{28}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Transport control in column reactors}{31}{subsection.4.4.2}
+\contentsline {chapter}{\numberline {5}Conclusions, Implications, and Future Work}{34}{chapter.5}
+\contentsline {chapter}{\numberline {6}Appendix}{36}{chapter.6}
+\contentsline {section}{\numberline {6.1}Climate Engineering and CDR options}{36}{section.6.1}
+\contentsline {section}{\numberline {6.2}Enhanced Weathering and Mineral Carbonation}{37}{section.6.2}
+\contentsline {section}{\numberline {6.3}Molecular formula of olivine}{38}{section.6.3}
+\contentsline {section}{\numberline {6.4}BET analyses}{38}{section.6.4}
+\contentsline {section}{\numberline {6.5}Calculation of thickness of the `surface layer'}{40}{section.6.5}
+\contentsline {section}{\numberline {6.6}Minor ion analysis}{43}{section.6.6}
+\contentsline {chapter}{Bibliography}{46}{chapter*.42}
+\contentsline {chapter}{Acknowledgments}{51}{chapter*.43}
