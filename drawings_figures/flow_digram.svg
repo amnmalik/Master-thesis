@@ -1,0 +1,124 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:latexdraw="http://latexdraw.sourceforge.net/namespaces/latexdraw"
+    version="1.1" baseProfile="full">
+    <g>
+        <g latexdraw:type="rectangle" id="id643945878">
+            <rect x="101.0" y="361.0000000000002" width="138.0"
+                height="38.00000000000017" latexdraw:borderPos="outer"
+                stroke-width="2.0" stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="rectangle" id="id1630986706">
+            <rect x="261.00000000000045" y="281.0000000000017"
+                width="163.47368421052624" height="37.999999999999886"
+                latexdraw:borderPos="outer" stroke-width="2.0"
+                stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="rectangle" id="id900882776">
+            <rect x="261.0" y="441.00000000000006"
+                width="187.47368421052647" height="37.99999999999994"
+                latexdraw:borderPos="outer" stroke-width="2.0"
+                stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="rectangle" id="id130297747">
+            <rect x="632.5789473684193" y="160.99999999999818"
+                width="126.42105263157976" height="38.0"
+                latexdraw:borderPos="outer" stroke-width="2.0"
+                stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="text" id="id3598803" fill="black" latexdraw:position="bl">
+            <text x="120.00000000000003" y="386.66666666666697">Rate Control</text>
+        </g>
+        <g latexdraw:type="text" id="id1204041056" fill="black" latexdraw:position="bl">
+            <text x="266.7333333333341" y="306.66666666666856">Transport control</text>
+        </g>
+        <g latexdraw:type="text" id="id1891583547" fill="black" latexdraw:position="bl">
+            <text x="279.9999999999999" y="466.6666666666669">Interface control</text>
+        </g>
+        <g latexdraw:type="text" id="id1057107617" fill="black" latexdraw:position="bl">
+            <text x="656.6249999999994" y="186.66666666666518">fluid film</text>
+        </g>
+        <g latexdraw:type="rectangle" id="id1336444850">
+            <rect x="480.99999999999943" y="220.9999999999995"
+                width="118.00000000000057" height="38.00000000000068"
+                latexdraw:borderPos="outer" stroke-width="2.0"
+                stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="rectangle" id="id1205580869">
+            <rect x="481.00000000000057" y="341.0000000000001"
+                width="118.00000000000057" height="38.00000000000023"
+                latexdraw:borderPos="outer" stroke-width="2.0"
+                stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="text" id="id1130802051" fill="black" latexdraw:position="bl">
+            <text x="499.99999999999994" y="246.66666666666654">Diffusion</text>
+        </g>
+        <g latexdraw:type="text" id="id663753498" fill="black" latexdraw:position="bl">
+            <text x="500.0000000000001" y="366.66666666666697">Advection</text>
+        </g>
+        <g latexdraw:type="rectangle" id="id327667306">
+            <rect x="632.5789473684193" y="220.99999999999818"
+                width="166.42105263157976" height="38.0"
+                latexdraw:borderPos="outer" stroke-width="2.0"
+                stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="text" id="id1090461381" fill="black" latexdraw:position="bl">
+            <text x="659.9999999999995" y="246.66666666666515">leached layer</text>
+        </g>
+        <g latexdraw:type="rectangle" id="id2145036676">
+            <rect x="632.5789473684193" y="280.9999999999982"
+                width="146.42105263157976" height="38.0"
+                latexdraw:borderPos="outer" stroke-width="2.0"
+                stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="text" id="id1790690737" fill="black" latexdraw:position="bl">
+            <text x="656.6249999999994" y="306.66666666666515">solid-state</text>
+        </g>
+        <g latexdraw:type="joinedLines" id="id742311077">
+            <polyline points="240.0,360.0 260.0,320.0 "
+                stroke-width="2.0" stroke="black"
+                latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-742311077)"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id371027458">
+            <polyline points="240.0,400.0 260.0,440.0 "
+                stroke-width="2.0" stroke="black"
+                latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-371027458)"/>
+        </g>
+    </g>
+    <defs>
+        <marker overflow="visible" orient="auto" id="arrow1-742311077">
+            <path
+                d="M 0.0 0.0 L -4.652083333333334 1.6614583333333335 L -4.652083333333334 0.0 L -4.652083333333334 -1.6614583333333335 z "
+                latexdraw:arrSizeNum="2.0" fill="black"/>
+        </marker>
+        <marker overflow="visible" orient="auto" id="arrow1-371027458">
+            <path
+                d="M 0.0 0.0 L -4.652083333333334 1.6614583333333335 L -4.652083333333334 0.0 L -4.652083333333334 -1.6614583333333335 z "
+                latexdraw:arrSizeNum="2.0" fill="black"/>
+        </marker>
+    </defs>
+    <metadata>
+        <latexdraw:metadata>
+            <latexdraw:latexIncludes>\usepackage{mathptmx}
+	
+
+\fontsize{14pt}</latexdraw:latexIncludes>
+            <latexdraw:displayXScale>true</latexdraw:displayXScale>
+            <latexdraw:displayYScale>true</latexdraw:displayYScale>
+            <latexdraw:unit>CM</latexdraw:unit>
+            <latexdraw:zoom>1.0</latexdraw:zoom>
+            <latexdraw:magneticGridStyle>CUSTOMISED</latexdraw:magneticGridStyle>
+            <latexdraw:gridGap>12</latexdraw:gridGap>
+            <latexdraw:magneticGrid>true</latexdraw:magneticGrid>
+            <latexdraw:version>3.3.4</latexdraw:version>
+            <latexdraw:size>
+                <latexdraw:width>1440</latexdraw:width>
+                <latexdraw:height>810</latexdraw:height>
+            </latexdraw:size>
+            <latexdraw:position>
+                <latexdraw:x>0.0</latexdraw:x>
+                <latexdraw:y>23.0</latexdraw:y>
+            </latexdraw:position>
+        </latexdraw:metadata>
+    </metadata>
+</svg>
