@@ -4,6 +4,10 @@ Master thesis, written in Latex, on 'Kinetics of Olivine Dissolution in Column E
 ## Usage
 Can serve as a useful template to writing thesis involving chemical equations and laboratory experiments. 
 
+### Steps
+1. Open the file `thesis.tex` in a TEX editor.
+2. Compile using XeLaTeX
+
 ## Description
 In January 2017, I submitted my master thesis, as part of the Master program - Integrated Climate System Sciences at the University of Hamburg. My thesis consisted of laboratory experiments conducted for over a year to find the reaction rate of a rock called olivine. I plotted the time-series data using *Tableau* (they provide a free one year student license), made SVG figures using another tool (don't remember the name as of now).
 
